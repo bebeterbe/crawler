@@ -1,7 +1,7 @@
 package huxiu
 
 import (
-	"crawler/core"
+	"lesson2/crawler/core"
 )
 
 type HeaderMiddleware struct {

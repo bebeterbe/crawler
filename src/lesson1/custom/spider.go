@@ -1,7 +1,7 @@
 package huxiu
 
 import (
-	"crawler/core"
+	"lesson1/crawler/core"
 )
 
 type Spider struct {
