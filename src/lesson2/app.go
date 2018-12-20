@@ -1,9 +1,11 @@
 package main
 
 import (
-	"lesson1/crawler/core"
-	"lesson1/custom"
+	"lesson2/crawler/core"
+	"lesson2/custom"
 )
+
+
 
 func main() {
 	engine := core.NewEngine(10)
